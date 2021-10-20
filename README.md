@@ -26,7 +26,6 @@
   ## Installation
   npm i
   
-  
   ## Tests
   npm run test
   
